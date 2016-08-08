@@ -1,0 +1,47 @@
+﻿<SecurityConfiguration xmlns:i="http://wwww.w3.org/2001/XMLSchema-instance">
+  <MenuGroups>
+    <Group>
+      <Name>Orders</Name>
+      <MenuEntries>
+        <MenuEntry>
+          <Title>New Order</Title>
+          <Link>/NewOrder</Link>
+          <AllowedGroups>
+            <Group>AD.Group.1</Group>
+            <Group>AD.Group.2</Group>
+          </AllowedGroups>
+        </MenuEntry>
+        <MenuEntry>
+          <Title>Amend Order</Title>
+          <Link>/AmendOrder</Link>
+          <AllowedGroups>
+            <Group>AD.Group.3</Group>
+          </AllowedGroups>
+        </MenuEntry>
+      </MenuEntries>
+    </Group>
+
+    <Group>
+      <Name>Customers</Name>
+      <MenuEntries>
+        <MenuEntry>
+          <Title>New Customer</Title>
+          <Link>/NewCustomer</Link>
+          <AllowedGroups>
+            <Group>AD.Group.4</Group>
+            <Group>AD.Group.5</Group>
+            <Group>AD.Group.6</Group>
+          </AllowedGroups>
+        </MenuEntry>
+        <MenuEntry>
+          <Title>Amend Customer</Title>
+          <Link>/AmendCustomer</Link>
+          <AllowedGroups>
+            <Group>AD.Group.7</Group>
+            <Group>AD.Group.8</Group>
+          </AllowedGroups>
+        </MenuEntry>
+      </MenuEntries>
+    </Group>
+  </MenuGroups>
+</SecurityConfiguration>

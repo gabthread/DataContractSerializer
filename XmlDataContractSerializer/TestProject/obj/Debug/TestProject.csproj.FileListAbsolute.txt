@@ -1,0 +1,21 @@
+C:\Gabriel\ConceptExamples\Xml_Serialization_And_Deserialization\TestProject\obj\Debug\TestProject.csprojResolveAssemblyReference.cache
+C:\Gabriel\ConceptExamples\Xml_Serialization_And_Deserialization\TestProject\bin\Debug\TestProject.dll
+C:\Gabriel\ConceptExamples\Xml_Serialization_And_Deserialization\TestProject\bin\Debug\TestProject.pdb
+C:\Gabriel\ConceptExamples\Xml_Serialization_And_Deserialization\TestProject\bin\Debug\XmlSerializationAndDeserialization.dll
+C:\Gabriel\ConceptExamples\Xml_Serialization_And_Deserialization\TestProject\bin\Debug\XmlSerializationAndDeserialization.pdb
+C:\Gabriel\ConceptExamples\Xml_Serialization_And_Deserialization\TestProject\obj\Debug\TestProject.dll
+C:\Gabriel\ConceptExamples\Xml_Serialization_And_Deserialization\TestProject\obj\Debug\TestProject.pdb
+C:\Gabriel\Blog Code\XmlDataContractSerializer\XmlDataContractSerializer\XmlDataContractSerializer\TestProject\bin\Debug\TestProject.dll
+C:\Gabriel\Blog Code\XmlDataContractSerializer\XmlDataContractSerializer\XmlDataContractSerializer\TestProject\bin\Debug\TestProject.pdb
+C:\Gabriel\Blog Code\XmlDataContractSerializer\XmlDataContractSerializer\XmlDataContractSerializer\TestProject\bin\Debug\XmlSerializationAndDeserialization.dll
+C:\Gabriel\Blog Code\XmlDataContractSerializer\XmlDataContractSerializer\XmlDataContractSerializer\TestProject\bin\Debug\XmlSerializationAndDeserialization.pdb
+C:\Gabriel\Blog Code\XmlDataContractSerializer\XmlDataContractSerializer\XmlDataContractSerializer\TestProject\obj\Debug\TestProject.csprojResolveAssemblyReference.cache
+C:\Gabriel\Blog Code\XmlDataContractSerializer\XmlDataContractSerializer\XmlDataContractSerializer\TestProject\obj\Debug\TestProject.dll
+C:\Gabriel\Blog Code\XmlDataContractSerializer\XmlDataContractSerializer\XmlDataContractSerializer\TestProject\obj\Debug\TestProject.pdb
+C:\Gabriel\Blog\DataContractSerializer\XmlDataContractSerializer\TestProject\bin\Debug\TestProject.dll
+C:\Gabriel\Blog\DataContractSerializer\XmlDataContractSerializer\TestProject\bin\Debug\TestProject.pdb
+C:\Gabriel\Blog\DataContractSerializer\XmlDataContractSerializer\TestProject\bin\Debug\XmlSerializationAndDeserialization.dll
+C:\Gabriel\Blog\DataContractSerializer\XmlDataContractSerializer\TestProject\bin\Debug\XmlSerializationAndDeserialization.pdb
+C:\Gabriel\Blog\DataContractSerializer\XmlDataContractSerializer\TestProject\obj\Debug\TestProject.csprojResolveAssemblyReference.cache
+C:\Gabriel\Blog\DataContractSerializer\XmlDataContractSerializer\TestProject\obj\Debug\TestProject.dll
+C:\Gabriel\Blog\DataContractSerializer\XmlDataContractSerializer\TestProject\obj\Debug\TestProject.pdb
